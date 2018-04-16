@@ -1,3 +1,3 @@
 # vue2.0-demo
-Hungry single page application
-Submission code
+饿了么平台产品详情页部分
+
